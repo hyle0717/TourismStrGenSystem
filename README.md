@@ -1,0 +1,2 @@
+# TourismStrGenSystem
+基于LangChain大模型语言框架的旅游攻略生成系统的设计与实现
