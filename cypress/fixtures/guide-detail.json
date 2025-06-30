@@ -1,0 +1,56 @@
+{
+  "id": 101,
+  "title": "北京三日精华游",
+  "city": "北京",
+  "type": "文化游",
+  "views": 1500,
+  "rating": 4.8,
+  "author": "旅行达人",
+  "author_avatar": "https://example.com/avatars/1.jpg",
+  "publish_time": "2024-03-10T09:15:00Z",
+  "description": "一份适合初次来北京游玩的精华攻略，带你领略北京的历史文化魅力。",
+  "recommend_days": 3,
+  "best_season": "春秋季节",
+  "budget": 3000,
+  "image": "https://example.com/images/beijing.jpg",
+  "sections": [
+    {
+      "title": "第一天：故宫博物院",
+      "content": "早上8点到达故宫博物院，建议从午门进入，从神武门出来。重点参观太和殿、乾清宫、御花园等区域。下午可以去景山公园俯瞰故宫全景。",
+      "images": [
+        {
+          "image": "https://example.com/images/forbidden-city-1.jpg",
+          "caption": "故宫太和殿"
+        },
+        {
+          "image": "https://example.com/images/forbidden-city-2.jpg",
+          "caption": "御花园"
+        }
+      ]
+    },
+    {
+      "title": "第二天：长城和颐和园",
+      "content": "上午前往八达岭长城，建议乘坐缆车上山以节省体力。下午游览颐和园，重点游览长廊、佛香阁等景点。",
+      "images": [
+        {
+          "image": "https://example.com/images/great-wall.jpg",
+          "caption": "八达岭长城"
+        },
+        {
+          "image": "https://example.com/images/summer-palace.jpg",
+          "caption": "颐和园长廊"
+        }
+      ]
+    },
+    {
+      "title": "第三天：胡同文化",
+      "content": "漫步南锣鼓巷，体验老北京胡同文化，品尝特色小吃。下午可以去什刹海区域，体验老北京风情。",
+      "images": [
+        {
+          "image": "https://example.com/images/hutong.jpg",
+          "caption": "南锣鼓巷"
+        }
+      ]
+    }
+  ]
+} 

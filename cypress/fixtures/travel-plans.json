@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "destination": "北京",
+    "duration": 5,
+    "budget": 5000,
+    "travel_date": "2024-05-01",
+    "special_requirements": "希望体验当地文化",
+    "preferences": ["历史", "美食", "文化"],
+    "created_at": "2024-03-15T10:30:00Z",
+    "plan_content": "第一天：游览故宫博物院\n第二天：登长城\n第三天：参观颐和园\n第四天：逛南锣鼓巷\n第五天：品尝北京美食"
+  },
+  {
+    "id": 2,
+    "destination": "上海",
+    "duration": 3,
+    "budget": 3000,
+    "travel_date": "2024-06-15",
+    "special_requirements": "想要购物体验",
+    "preferences": ["购物", "现代", "美食"],
+    "created_at": "2024-03-16T14:20:00Z",
+    "plan_content": "第一天：游览外滩\n第二天：逛南京路\n第三天：参观东方明珠"
+  }
+] 

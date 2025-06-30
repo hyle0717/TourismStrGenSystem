@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "guide": {
+      "id": 101,
+      "title": "北京三日精华游",
+      "city": "北京",
+      "type": "文化游",
+      "views": 1500,
+      "rating": 4.8,
+      "author": "旅行达人",
+      "author_avatar": "https://example.com/avatars/1.jpg",
+      "collection_id": 1
+    }
+  },
+  {
+    "id": 2,
+    "guide": {
+      "id": 102,
+      "title": "上海购物攻略",
+      "city": "上海",
+      "type": "购物游",
+      "views": 2000,
+      "rating": 4.5,
+      "author": "购物专家",
+      "author_avatar": "https://example.com/avatars/2.jpg",
+      "collection_id": 2
+    }
+  }
+] 
